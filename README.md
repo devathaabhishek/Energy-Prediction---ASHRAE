@@ -1,4 +1,10 @@
 # Energy-Prediction---ASHRAE
+ASHRAE, the American Society of Heating and Air-Conditioning Engineers founded in 1894 focuses on building systems, energy efficiency, indoor air quality, refrigeration, and sustainability within the industry.
+ASHRAE has conducted three competitions so far on Energy Consumption.
+The main goal of these competitions is to predict the energy consumption of the coming years for better investments in energy efficiency.
+Recently launched its third competition in October 2019. In this competition, they provided hourly consumption of four different energies of 1449 buildings in 16 different sites in a year.
+They asked contestants to predict the hourly consumption of these energies for the next two years.
+
 Energy prediction of buildings 
 ashraeenergyprediction-eda1.ipynb : Performs EDA on dataset
 energy-feature-engineering-2.ipynb : preprocessing on dataset and feature Engineering
